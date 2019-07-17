@@ -18,13 +18,13 @@ Instead of relying on unit tests, this lab is deliverable driven. You will be re
 
 ### Structuring Your Code:
 
-You've been provided with a basic HTML file, as well as a `src/index.js` file where you can implement your solution. Focus on getting the feature working while using your knowledge to write readable, maintainable code. 
+You've been provided with a basic HTML file, as well as a `src/index.js` file where you can implement your solution. Focus on getting the feature working while using your knowledge to write readable, maintainable code.
 
 ### Deliverables:
 
-- users should be able to type a task into the input field
-- users should be able to click some form of a submit button
-- the task string that the user provided should appear on the DOM after the submit button has been activated
+<!-- 1)  users should be able to type a task into the input field -->
+<!-- 2) users should be able to click some form of a submit button -->
+3)  the task string that the user provided should appear on
 
 **Note:** [While the example][example] shows one working application of TaskLister Lite™️, yours can (and is encouraged to!) look however you like.
 
